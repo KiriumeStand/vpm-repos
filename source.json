@@ -1,0 +1,19 @@
+{
+    "name": "KiriumeStand's VPM Packages",
+    "id": "io.github.kiriumestand.vpm-repos",
+    "url": "https://KiriumeStand.github.io/vpm-repos/index.json",
+    "author": {
+        "email": "",
+        "name": "KiriumeStand",
+        "url": "https://kiriume-stand.booth.pm"
+    },
+    "description": "KiriumeStand's VPM Packages",
+    "infoLink": {
+        "url": "https://github.com/KiriumeStand/vpm-repos",
+        "text": "View on GitHub"
+    },
+    "githubRepos": [
+        "KiriumeStand/MultipleFieldBulkChanger"
+    ],
+    "packages": []
+}
