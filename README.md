@@ -1,3 +1,6 @@
+# Original Template
+https://github.com/vrchat-community/template-package-listing
+
 # VPM Package Listing Template
 
 Starter for making your own Package Listings, including automation for building and publishing them.
